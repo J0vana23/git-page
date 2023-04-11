@@ -6,4 +6,4 @@
 5° coloque sua branch
 6° salve
 7° espere alguns minutos
-8° commit changes
+8° salvar no commit changes
